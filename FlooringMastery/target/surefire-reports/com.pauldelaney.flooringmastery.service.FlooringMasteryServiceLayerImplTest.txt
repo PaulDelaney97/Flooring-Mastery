@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pauldelaney.flooringmastery.service.FlooringMasteryServiceLayerImplTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.073 sec - in com.pauldelaney.flooringmastery.service.FlooringMasteryServiceLayerImplTest
